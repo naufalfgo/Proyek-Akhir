@@ -1,0 +1,13 @@
+Untuk membuka file aplikasi "mouserecom.py" dan "mouserecom.ipnyb dibutuhkan untuk menginstall library berikut:
+1. numpy
+2. pylab
+3. pandas
+4. matplotlib
+5. seaborn
+6. scikit-learn
+7. plotly
+8. streamlit
+9. regex
+10. turtle
+
+Untuk versi python yang digunakan versi 3.9.7
